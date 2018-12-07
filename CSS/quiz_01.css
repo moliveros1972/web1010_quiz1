@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+
+.box {
+    
+    border: 1px solid black;
+    max-width: 500px;
+    min-width: 500px;
+    max-height: 450px;
+    min-height: 450px;
+    background-color: white;
+    margin: 400px;
+    margin-top: 200px;
+        
+}
+
+.title{
+    float: right;
+
+}
+.price{
+    float: right;
+    font-size: 30px;
+    color: red;
+    text-shadow:  10px;
+}
+#buy{
+    float: right;
+    background-color: green;
+    
+}
+#inside{
+    float: left;
+
+}
+img{
+    height: 100%;
+}
+
+
